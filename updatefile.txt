@@ -1,0 +1,18 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest"	"1.2.0"
+		}
+		
+		"Notes"	"More info @ www.csgoirk.ru"
+	}
+	
+	"Files"
+	{
+		"Plugin"	"Path_SM/plugins/res.smx"
+		"Source"	"Path_SM/scripting/res.sp"
+	}
+}
